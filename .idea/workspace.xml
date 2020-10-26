@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d572ddfc-66f5-485d-8b87-9c3f3187c054" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jM1BTIyMMxj6QH88qAd4DOX1yC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ObjectOPP.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ObjectOPP.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.ObjectOPP.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d572ddfc-66f5-485d-8b87-9c3f3187c054" name="Default Changelist" comment="" />
+      <created>1603599011939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603599011939</updated>
+      <workItem from="1603599012971" duration="592000" />
+      <workItem from="1603614444991" duration="18898000" />
+      <workItem from="1603673352081" duration="14869000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1345" height="136" key="GridCell.Tab.0.bottom" timestamp="1603678994606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1858.1080@0.0.1366.728" timestamp="1603669368354" />
+    <state width="1345" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603678994606" />
+    <state width="1345" height="136" key="GridCell.Tab.0.center" timestamp="1603678994605">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1858.1080@0.0.1366.728" timestamp="1603669368353" />
+    <state width="1345" height="136" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603678994605" />
+    <state width="1345" height="136" key="GridCell.Tab.0.left" timestamp="1603678994605">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1858.1080@0.0.1366.728" timestamp="1603669368353" />
+    <state width="1345" height="136" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603678994605" />
+    <state width="1345" height="136" key="GridCell.Tab.0.right" timestamp="1603678994605">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1858.1080@0.0.1366.728" timestamp="1603669368353" />
+    <state width="1345" height="136" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603678994605" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1603652396616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/-1920.0.1858.1080@0.0.1366.728" timestamp="1603652396616" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ObjectOPP.js</url>
+          <line>29</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
