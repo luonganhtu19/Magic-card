@@ -1,7 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:status" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d572ddfc-66f5-485d-8b87-9c3f3187c054" name="Default Changelist" comment="" />
+    <list default="true" id="d572ddfc-66f5-485d-8b87-9c3f3187c054" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Name.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Name.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectOPP.js" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectOPP.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/display.css" beforeDir="false" afterPath="$PROJECT_DIR$/display.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/27.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/29.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/30.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/30.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/31.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/31.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/32.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/32.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/33.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/33.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/34.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/34.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/35.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/35.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/36.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/36.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/38.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/38.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/39.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/39.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/40.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/41.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/41.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/42.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/42.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/43.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/43.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/44.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/44.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/45.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/45.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/46.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/46.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sepci/backgroup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,13 +80,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jM1BTIyMMxj6QH88qAd4DOX1yC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,16 +101,25 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.jsTest.js">
     <configuration name="ObjectOPP.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ObjectOPP.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="jsTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/jsTest.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.jsTest.js" />
+        <item itemvalue="Node.js.test.js" />
         <item itemvalue="Node.js.ObjectOPP.js" />
       </list>
     </recent_temporary>
@@ -49,49 +134,78 @@
       <updated>1603599011939</updated>
       <workItem from="1603599012971" duration="592000" />
       <workItem from="1603614444991" duration="18898000" />
-      <workItem from="1603673352081" duration="15472000" />
+      <workItem from="1603673352081" duration="18811000" />
+      <workItem from="1603705137623" duration="3465000" />
+      <workItem from="1603752439121" duration="1239000" />
+      <workItem from="1603759604107" duration="12101000" />
+      <workItem from="1603805957608" duration="14557000" />
+      <workItem from="1603846265192" duration="25217000" />
+      <workItem from="1603876828870" duration="4820000" />
+      <workItem from="1603882128350" duration="599000" />
+      <workItem from="1603885637141" duration="24967000" />
+      <workItem from="1603933734132" duration="629000" />
+      <workItem from="1603935910019" duration="106000" />
+      <workItem from="1603936211146" duration="1780000" />
+      <workItem from="1603953604030" duration="336000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state width="1340" height="136" key="GridCell.Tab.0.bottom" timestamp="1603700936472">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1858.1080@0.0.1366.728" timestamp="1603669368354" />
-    <state width="1340" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603700936472" />
-    <state width="1340" height="136" key="GridCell.Tab.0.center" timestamp="1603700936472">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1858.1080@0.0.1366.728" timestamp="1603669368353" />
-    <state width="1340" height="136" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603700936472" />
-    <state width="1340" height="136" key="GridCell.Tab.0.left" timestamp="1603700936472">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1858.1080@0.0.1366.728" timestamp="1603669368353" />
-    <state width="1340" height="136" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603700936472" />
-    <state width="1340" height="136" key="GridCell.Tab.0.right" timestamp="1603700936472">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1858.1080@0.0.1366.728" timestamp="1603669368353" />
-    <state width="1340" height="136" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603700936472" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1603652396616">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/-1920.0.1858.1080@0.0.1366.728" timestamp="1603652396616" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/ObjectOPP.js</url>
-          <line>29</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="WindowStateProjectService">
+    <state x="309" y="42" key="#Inspections" timestamp="1603816257230">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="42" key="#Inspections/0.0.1366.728/-1920.0.1858.1080@0.0.1366.728" timestamp="1603816257230" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1603705126418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603705126418" />
+    <state width="1345" height="135" key="GridCell.Tab.0.bottom" timestamp="1603938262344">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1837" height="227" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1603928855065" />
+    <state width="1345" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1858.1080@0.0.1366.728" timestamp="1603756328321" />
+    <state width="1345" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603938262344" />
+    <state width="1345" height="135" key="GridCell.Tab.0.center" timestamp="1603938262343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1837" height="227" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1603928855065" />
+    <state width="1345" height="136" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1858.1080@0.0.1366.728" timestamp="1603756328321" />
+    <state width="1345" height="135" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603938262343" />
+    <state width="1345" height="135" key="GridCell.Tab.0.left" timestamp="1603938262343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1837" height="227" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1603928855049" />
+    <state width="1345" height="136" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1858.1080@0.0.1366.728" timestamp="1603756328321" />
+    <state width="1345" height="135" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603938262343" />
+    <state width="1345" height="135" key="GridCell.Tab.0.right" timestamp="1603938262344">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1837" height="227" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1603928855065" />
+    <state width="1345" height="136" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1858.1080@0.0.1366.728" timestamp="1603756328321" />
+    <state width="1345" height="135" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603938262344" />
+    <state x="0" y="0" width="1382" height="816" key="dock-window-1" timestamp="1603926771683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="1382" height="816" key="dock-window-1/0.0.1366.728/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1603926771683" />
+    <state x="-1459" y="240" key="run.anything.popup" timestamp="1603924308634">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1459" y="240" key="run.anything.popup/0.0.1366.728/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1603924308634" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/-1920.0.1858.1080@0.0.1366.728" timestamp="1603652396616" />
   </component>
 </project>
